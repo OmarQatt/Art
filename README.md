@@ -1,5 +1,5 @@
 # Art
-
+Visit the web site: https://62e07e20b068da0a8e1443f0--endearing-peony-7f2f80.netlify.app/
 Art or the arts is a sacred language and gift that allows a person to express himself in such a way that a 
 person uses it to translate the feelings and struggles that are contained in his essential self, and not an 
 expression of his need for requirements in his life, although some scholars consider art as life the necessity for men, such as water and food.
@@ -31,7 +31,7 @@ That is why the Art site is designed with a simple and
 •competitors.
 ART is one of the few websites which is like the idea of spreading knowledge about all kinds of art, giving as much daily updated information as possible about everything related to art, and selling all equipment related to art.
 Which facilitates later to increase the chances of success of the site and overcome competitors within their individual ideas, such as selling most of the art equipment such as the Jolly Chic site after adding art paintings, manual works, and all that is related to art.
-https://ar.jollychic.com/painting-art-c263
+
 
 
 | Programming Languages Used in the System
